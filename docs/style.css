@@ -1,0 +1,205 @@
+*{
+    color: rgba(128, 128, 128, 0.76);
+
+}
+.bg-light{
+    background-color: white !important;
+    opacity: .99;
+}
+.navbar{
+    font-family: 'Raleway', sans-serif;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    
+}
+.navbar-brand, .navbar-light .navbar-brand{
+    padding-left: 15%;
+    padding-right: 25%;
+    color: #3353d1;
+    
+}
+.collapse,.accordion-collapse,.collapse, .show, .navbar-collapse{
+    font-size: smaller;
+    color: rgba(128, 128, 128, 0.76);
+}
+.btn-navbar{
+    background-color: #3656d4;
+    color: aliceblue;
+    font-weight: 100;
+    box-shadow: 0px 10px 10px rgba(128, 128, 128, 0.418);
+}
+.nav-item{
+    padding-right: 10px;
+}
+
+img{
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    filter: grayscale(100%);
+    opacity: 20%;
+}
+.row600{
+    height: 600px;
+}
+.row650{
+    height: 650px;
+}
+#div-parent-floating{
+    position: relative;
+
+}
+#div-child-floating{
+    background-color: #f1f5ff;
+    border-radius: 15px;
+    box-shadow: 0px 11px 29px -9px rgba(73, 95, 190, 0.5);
+    height: 100px;
+    width: 700px;
+    padding-top: 1rem;
+    position: absolute;
+    bottom: 5%;
+    left: 250px;
+    
+
+}
+.p-gray{
+    color: rgba(128, 128, 128, 0.76);
+}
+.blue-title,h2,h5,h6{
+    color: #1f3e72;
+}
+.colorLogo{
+    color: #3353d1;
+}
+.black-txt{
+    color:black;
+}
+.center{
+    text-align: center;
+}
+.justify{
+    text-align: justify;
+}
+
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+
+.pe-6{
+    padding-right: 25% ;
+}
+.pt-6{
+    padding-top: 5rem !important;
+}
+
+
+.material-icons.md-blue {
+    color: #3353d1;
+    vertical-align: middle;
+    
+}
+.material-icons.md-blue.align-b{
+    vertical-align: bottom;
+
+}
+.material-icons.md-yellow {
+    color: #ffd012;
+    vertical-align: middle;
+}
+
+.card-info:hover{
+    transform: scale(1.05);
+    border-radius: 10px;
+    box-shadow: 0px 11px 29px -9px rgba(73, 95, 190, 0.5);
+    -webkit-box-shadow: 0px 11px 29px -9px rgba(16, 28, 190, 0.5);
+    -moz-box-shadow: 0px 11px 29px -9px rgba(0,0,0,0.5);
+}
+
+.imgNurse{
+    /*background-image: url("https://img.freepik.com/free-photo/front-view-female-nurse-white-medical-suit-with-red-mask-injection-her-hands-blue_179666-32923.jpg?w=1380&t=st=1647457665~exp=1647458265~hmac=44400b14175eff466ee654b69de83816482fa27401ade15e0a40dcfc536eb5d1");
+    */
+    background-image: url("img/nurse.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imgMask{
+    /*background-image: url("https://img.freepik.com/free-photo/front-view-young-woman-sterile-mask-yellow-wall_179666-15171.jpg?t=st=1647460025~exp=1647460625~hmac=fa59e2f95fc5bb40b83ea7cdfb2430b49b65f93509c67ac808273ae5667f5d7e&w=1380");
+    */
+    background-image: url(img/mask.PNG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imgDoc{    
+    background-image: url(img/doc.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn-primary{
+    background-color: #f1f5ff;
+    border-color: #f1f5ff;
+    color: #3353d1;
+    size: auto;
+    text-align: center;
+    font-weight: 500;
+    font-size: small;
+}
+
+.btn:hover, .btn.active{
+    background-color: #3353d1;
+    
+}
+
+a{
+    color: rgba(128, 128, 128, 0.76);
+}
+a:link {
+    text-decoration: none
+}
+a:hover{
+    color: rgba(128, 128, 128, 0.76) !important;
+    text-decoration: none;
+}
+
+#footer{
+    font-size: small;
+    background-color: #f1f5ff;
+}
+
+/*
+#containerTriangle{
+    height: 160px;
+    background: #000 url('http://farm8.staticflickr.com/7358/9532233404_58763bd668_b.jpg') no-repeat;
+    position: relative;
+
+}
+#containerTriangle > DIV {
+    position: absolute;
+}
+
+#triangleOne{
+    position: absolute;
+    width: 50px;
+    right: 203px;
+    bottom: 50%;
+    border-top: 80px solid transparent;
+    border-right: 80px solid gray;
+    
+}
+#triangleTwo{
+    position: absolute;
+    width: 50px;
+    right: 100px;
+    bottom: 50%;
+    border-top: 80px solid transparent;
+    border-left: 80px solid gray;
+}
+
+*/
