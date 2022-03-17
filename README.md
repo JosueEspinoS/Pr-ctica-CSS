@@ -1,4 +1,4 @@
-# Pr-ctica-CSS
+# Práctica-CSS
 La práctica consiste en lo siguiente:
 
 - Planeación de campaña de vacunación (Un poco de mercadotecnia para llegar al sitio)
