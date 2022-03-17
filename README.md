@@ -8,3 +8,6 @@ La práctica consiste en lo siguiente:
 Bonus:
 - Bonus de diseños o páginas adicionales (Totalmente a tu creatividad)
 - Bonus de despliegue de la página 
+
+## Link práctica realizada:
+[link](https://josueespinos.github.io/VacunacionCSS)
